@@ -6,7 +6,7 @@ const note=require("./utils")
 
 
 
-yargs.version("2.2.2")
+//yargs.version("2.2.2")
 
 //create add command 
 
